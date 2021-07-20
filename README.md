@@ -2,7 +2,7 @@
 Blender 內建 3D-Print Toolbox ADD-ON 的中文語言介面檔案
 
 
-請下載為 ZIP 後解開，將下列三個檔案
+請 Download ZIP 後解開，將下列三個檔案
 
 `__init__.py `<br>
 `operators.py `<br>
